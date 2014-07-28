@@ -30,6 +30,7 @@ $ # Head to http://192.168.33.101/ or http://vagrant.local/
 - [Laravel](http://laravel.com/)
 - [Backbone Marionette](http://marionettejs.com/)
 - [Inuit CSS](https://github.com/inuitcss/)
+- [Vagrant](http://www.vagrantup.com/) (with my [Vagrantfile](https://github.com/aaronlord/vagrant/))
 - [Jeffrey Way's Generators](https://github.com/JeffreyWay/Laravel-4-Generators)
 - [Laroute](https://github.com/aaronlord/laroute)
 - [Karma](http://karma-runner.github.io)(ish)
