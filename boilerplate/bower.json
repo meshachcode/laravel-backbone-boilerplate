@@ -1,0 +1,17 @@
+{
+    "name": "laravel-backbone-boilerplate",
+    "description": "Laravel & Backbone boilerplate",
+    "version": "0.0.1",
+    "homepage": "https://github.com/aaronlord/laravel-backbone-boilerplate",
+    "author": {
+        "name": "Aaron Lord",
+        "url": "https://aaronlord.is/for-hire/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aaronlord/laravel-backbone-boilerplate.git"
+    },
+    "bugs": {
+        "url": "https://github.com/aaronlord/laravel-backbone-boilerplate/issues"
+    }
+}

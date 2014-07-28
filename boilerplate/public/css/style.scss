@@ -1,0 +1,46 @@
+/*
+ * #SETTINGS
+ */
+@import "../vendor/inuit-defaults/settings.defaults";
+
+
+/*
+ * #TOOLS
+ */
+@import "../vendor/inuit-functions/tools.functions";
+@import "../vendor/inuit-mixins/tools.mixins";
+
+
+/*
+ * #GENERIC
+ */
+@import "../vendor/inuit-normalize/generic.normalize";
+@import "../vendor/inuit-box-sizing/generic.box-sizing";
+
+
+/*
+ * #BASE
+ */
+@import "../vendor/inuit-page/base.page";
+@import "../vendor/inuit-headings/base.headings";
+@import "../vendor/inuit-paragraphs/base.paragraphs";
+@import "base.page";
+@import "base.headings";
+@import "base.links";
+
+/*
+ * #OBJECTS
+ */
+@import "../vendor/inuit-layout/objects.layout";
+
+/*
+ * #COMPONENTS
+ */
+@import "components.welcome";
+
+/*
+ * #TRUMPS
+ */
+$inuit-use-fractions: false;
+@import "../vendor/inuit-clearfix/trumps.clearfix";
+@import "../vendor/inuit-widths/trumps.widths";
