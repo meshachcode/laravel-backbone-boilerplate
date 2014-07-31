@@ -40,4 +40,4 @@ bower install --save-dev modernizr requirejs requirejs-text marionette almond in
 echo "~ Pulling Vagrantfile ~"
 curl -O https://raw.githubusercontent.com/aaronlord/vagrant/master/Vagrantfile
 
-echo "~ Ready. vagrant up -> grunt -> make something sexy. ~"
+echo "~ Ready. vagrant up -> grunt release (then you can just grunt) -> make something sexy. ~"
